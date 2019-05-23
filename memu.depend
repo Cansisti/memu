@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1548251631 source:c:\cpp\memu\main.cpp
+	<iostream>
+	<fstream>
+	<cstdint>
+	<cstring>
+
+1548252086 source:c:\_shared\memu\main.cpp
+	<iostream>
+	<fstream>
+	<cstdint>
+	<cstring>
+	"marie.h"
+
+1548252059 c:\_shared\memu\marie.h
+
+1548276985 source:f:\cpp\memu\main.cpp
+	<iostream>
+	<fstream>
+	<cstdint>
+	<cstring>
+	<string>
+	<iomanip>
+	"marie.h"
+
+1548273070 f:\cpp\memu\marie.h
+

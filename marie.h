@@ -1,0 +1,13 @@
+#define add 0x3000
+#define subt 0x4000
+#define addl 0xb000
+#define clear_ 0xa000
+#define load 0x1000
+#define store 0x2000
+#define input 0x5000
+#define output 0x6000
+#define jump 0x9000
+#define skipcond 0x8000
+#define jns 0x0000
+#define jumpl 0xc000
+#define halt 0x7000
